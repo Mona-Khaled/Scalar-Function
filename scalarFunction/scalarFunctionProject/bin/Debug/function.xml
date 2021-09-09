@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table p1:name="" xmlns:p1="Function">
+  <function>
+    <name>sum</name>
+    <numberofarguments>1</numberofarguments>
+    <dataTypes>
+      <dataType>Double</dataType>
+    </dataTypes>
+  </function>
+  <function>
+    <name>minimum</name>
+    <numberOfArguments>1</numberOfArguments>
+    <dataTypes>
+      <dataType>Double</dataType>
+    </dataTypes>
+  </function>
+  <function>
+    <name>maximum</name>
+    <numberOfArguments>1</numberOfArguments>
+    <dataTypes>
+      <dataType>Double</dataType>
+    </dataTypes>
+  </function>
+  <function>
+    <name>count</name>
+    <numberOfArguments>1</numberOfArguments>
+    <dataTypes>
+      <dataType>Double</dataType>
+      <dataType>String</dataType>
+    </dataTypes>
+  </function>
+  <function>
+    <name>average</name>
+    <numberOfArguments>1</numberOfArguments>
+    <dataTypes>
+      <dataType>Double</dataType>
+    </dataTypes>
+  </function>
+</table>
